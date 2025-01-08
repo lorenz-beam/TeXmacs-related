@@ -1,1 +1,1 @@
-# TeXmacs-related
+# TeXmacs-related scripts
